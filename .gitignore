@@ -1,0 +1,11 @@
+/build/
+/sdkconfig
+/sdkconfig.old
+.vs/
+/models/
+/capturedImage/
+/image_captures_data/
+/imageSaveTemp/
+/referenceImages/
+/UI/UI/bin/Debug/models/
+/main/models/
