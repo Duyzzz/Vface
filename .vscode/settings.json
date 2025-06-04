@@ -22,7 +22,9 @@
     "idf.portWin": "COM4",
     "cSpell.words": [
         "ackc",
+        "Insightface",
         "nofaceackc",
+        "onnx",
         "savez"
     ]
 }
